@@ -28,7 +28,7 @@ Deep dive into the purchasing behavior of top clients, focusing on both quantity
 Formatting for Presentation
 Formatting of final output for clarity and presentation purposes.
 ##  Key Insights
-[Insert key insights, observations, and conclusions drawn from the analysis]
+
 How to Use This Document
 This document is intended to guide users through the dataset and the analysis performed.
 It can be used as a reference for understanding the dataset structure, the methodology used for analysis, and the insights obtained.
